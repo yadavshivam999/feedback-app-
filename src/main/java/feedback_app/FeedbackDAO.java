@@ -46,11 +46,9 @@ public class FeedbackDAO {
         }
         return list;
     }
-<<<<<<< HEAD
 }
-=======
-}
+
 
 //database se sare dabbe lane wala
 //database me jaata hai, saari rows padhta hai, har row ko ek Feedback dabbe me daalta hai, aur saare dabbe ek list me wapas deta hai (newest sabse upar).
->>>>>>> 063a47cead8e1b2ed0174b5d2c80cb273c6ff39a
+
