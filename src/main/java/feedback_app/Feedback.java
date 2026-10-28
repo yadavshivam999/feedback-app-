@@ -1,5 +1,6 @@
 package feedback_app;
-
+// ye ak box hai  jo feedback ka sara data ak box me rakhta hai  feedback class = box
+// using this to show all tables from databse to wepage
 import java.time.OffsetDateTime;
 
 public class Feedback {
