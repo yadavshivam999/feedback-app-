@@ -10,6 +10,7 @@
       <ul class="navbar-nav ms-auto">
         <li class="nav-item"><a class="nav-link" href="${pageContext.request.contextPath}/index.jsp">Home</a></li>
         <li class="nav-item"><a class="nav-link" href="${pageContext.request.contextPath}/feedbackform.jsp">Give Feedback</a></li>
+        <li class="nav-item"><a class="nav-link" href="${pageContext.request.contextPath}/feedbacks">All Feedback</a></li>
       </ul>
     </div>
   </div>
