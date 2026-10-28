@@ -1,0 +1,18 @@
+# Build output
+target/
+bin/
+*.class
+*.war
+
+# Eclipse
+.classpath
+.project
+.settings/
+.factorypath
+
+# VS Code / IntelliJ
+.vscode/
+.idea/
+
+# Secrets
+.env
