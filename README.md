@@ -44,6 +44,7 @@ DB_PASSWORD=<your database password>
 3. Build with `mvn package` and deploy `target/feedback-app.war` to Tomcat 11,
    or run the project from Eclipse with **Run on Server**.
 4. Open `http://localhost:8080/feedback_app/`.
+5. `/feedbacks` lists all saved feedback, newest first.
 
 ## Author
 
